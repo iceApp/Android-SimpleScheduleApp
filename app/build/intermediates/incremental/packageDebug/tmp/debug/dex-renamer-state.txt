@@ -1,0 +1,4 @@
+#Tue Apr 14 17:09:32 JST 2020
+base.0=/Users/sasadamai/Android/MyScheduler/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
